@@ -17,5 +17,4 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 - 😄 Pronouns: He/him
 
 ## 📈 Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-arun&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-arun&hide_border=true" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sam-arun&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />                                                                                                                                                                                                                                <i                         mg height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-arun&hide_border=true" />
