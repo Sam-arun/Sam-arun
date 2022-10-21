@@ -1,4 +1,4 @@
-![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Arun S
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`. <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50">
 <h3 align="center">A passionate Java Developer from India</h3>
