@@ -7,8 +7,8 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 <p align="left"> <a href="https://twitter.com/arun_mclaren" target="blank"><img src="https://img.shields.io/twitter/follow/arun_mclaren?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 
-- 🌱 I’m currently learning **DevOps**
-
+- 🎓 Research Enthusiast | Machine Learning | AI | Computer Networks
+  
 - 💬 Ask me about **Data Structures , Algo**
 
 - 📫 How to reach me **arun2801000@gmail.com**
